@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage_macaraig/static/css/main.cc95a266.css",
+    "main.js": "/ws101_react_landingpage_macaraig/static/js/main.256c7dc0.js",
+    "index.html": "/ws101_react_landingpage_macaraig/index.html",
+    "main.cc95a266.css.map": "/ws101_react_landingpage_macaraig/static/css/main.cc95a266.css.map",
+    "main.256c7dc0.js.map": "/ws101_react_landingpage_macaraig/static/js/main.256c7dc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc95a266.css",
+    "static/js/main.256c7dc0.js"
+  ]
+}
